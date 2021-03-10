@@ -1,2 +1,2 @@
-nieuw bestandje
+deze regel is vervangen
 en een nieuwe regel erbij
