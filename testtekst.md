@@ -1,2 +1,3 @@
-deze regel is vervangen
+deze regel is vervangen  
 en een nieuwe regel erbij
+**vette tekst**
